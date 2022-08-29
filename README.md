@@ -1,6 +1,7 @@
 ### 🚴Valar Morghulis🚴
 
 <a href="https://www.credly.com/badges/2fb6c721-9ca0-43b8-8543-0b886bc220a2/public_url"><img width="84" height="84"  src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"></a>
+<a href="https://www.credly.com/badges/44c5e12a-14cd-456d-b5b6-c85232f71c5e/public_url"><img width="84" height="84"  src="https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png"></a>
 
 <!--
 **jianxiaoguo/jianxiaoguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
